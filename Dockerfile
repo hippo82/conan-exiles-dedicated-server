@@ -44,8 +44,8 @@ RUN set -x \
                libwine \
                libwine:i386 \
                fonts-wine \
-               wine-stable \
-               # winehq-stable \
+               #wine-stable \
+               winehq-stable \
                xauth \
                xvfb
                
