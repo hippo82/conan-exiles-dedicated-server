@@ -1,7 +1,7 @@
 ###########################################################
 # Dockerfile that builds a Conan Exiles Gameserver
 ###########################################################
-FROM bgeens/steamcmd-root:0.1
+FROM steamcmd/steamcmd
 
 LABEL maintainer="bert@lair.be"
 
